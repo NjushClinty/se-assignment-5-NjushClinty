@@ -24,9 +24,9 @@ Answer the following questions based on your understanding of the installation a
 
    After installing Vs and launching it, you can select a theme and also adjust size of the font
    - Theme
-     Click on file, click preference,then theme,then color theme and choose your most preferred theme
+      Click on file, click preference,then theme,then color theme and choose your most preferred theme
    - Font
-   Click file, then preference then settings.From the settings tab, you cn adjust your font size and the font family
+      Click file, then preference then settings.From the settings tab, you cn adjust your font size and the font family
         Terminal
    To intergrate a preferred terminal
    - Click three dots at the top left next to run. Click on terminal then new terminal.It will open a menu below. Next to the plus button there is a down key, click it and choose a terminal
@@ -60,19 +60,19 @@ Answer the following questions based on your understanding of the installation a
    This is where the extensions are displayed.
         Three dots(top left)
    - Accessing terminals
-               Activity bar
-        It is found on the left of Vs code window. This is where there icons ; Explorer,search,source extension, run and debug and extensions are found.
+                      Activity bar
+        It is found on the left of Vs code window. This is where the icons ; Explorer,search,source extension, run and debug and extensions are found.
         Purpose
         - Explorer- accessing folders
         - Search- searching files on your project
         - Source control- accessing terminals
         - Run and debug- it opens a panel to run and debug your work
         - Extensions- Installation of extensions such as Python
-                Side bar
+                       Side bar
          Found on the right of the activity bar. It displays the content of the activity bar i.e. extensions, searches, explorer contents.
-               Editor group
+                    Editor group
          This is the middle part of the Vs code. This is where files are opened in a tab and where you edit them.An important feature in this part include; splitview(open different tabs at the same time)
-               Status bar
+                    Status bar
          This is the horizontal bar at the bottom of the Vs. It hosts features such as; current file info(Line and column ,spacing) select encoding, language model,notifications,git integration
 
                 
