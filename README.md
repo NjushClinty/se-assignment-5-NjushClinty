@@ -16,7 +16,7 @@ Answer the following questions based on your understanding of the installation a
    - This page shows where the vs will be installed in your pc, click next
    - Click next in this menu if you don't want to select another folder
    - In this menu, ensure add to path is ticked and tick any other boxes based on your preference, click next
-   - Now click install, the Vs will install in a few minutes 
+   - Now click install, the Vs will install in a few minutes or seconds 
    - Now click finish and the Vs will start(if you leave the box shown unticked)
 
 2. First-time Setup:
@@ -28,7 +28,7 @@ Answer the following questions based on your understanding of the installation a
    - Font
    Click file, then preference then settings.From the settings tab, you cn adjust your font size and the font family
         Terminal
-     To intergrate a preferred terminal
+   To intergrate a preferred terminal
    - Click three dots at the top left next to run. Click on terminal then new terminal.It will open a menu below. Next to the plus button there is a down key, click it and choose a terminal
         Autosave
    Click on save and look for Autosave then click to tick it. This will always automatically save your work on Vs code.
